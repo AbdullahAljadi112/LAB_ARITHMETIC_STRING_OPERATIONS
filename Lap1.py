@@ -15,3 +15,4 @@ print()
 print(f"subtotal: $ {subtotal:.2f}")
 print(f"tax: $ {tax:.2f}")
 print(f"total: $ {total:.2f}")
+
